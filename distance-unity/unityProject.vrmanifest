@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.car2ped.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\kai\\Desktop\\Comparison-Study-VR-Part\\Car2Ped\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Car2Ped [Testing]"
+        }
+      }
+    }
+  ]
+}
