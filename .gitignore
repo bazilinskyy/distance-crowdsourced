@@ -112,3 +112,6 @@ distance/*.p
 
 # node.js modules
 /node_modules
+
+# log giles
+/log2csv_logfiles
